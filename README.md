@@ -2,6 +2,8 @@
 
 An emulator for the Sharp EL-9300 graphing calculator, built around its Sharp SC62015 ("ESR-L") CPU.
 
+[![Screenshot of the emulator](screenshot.png)](screenshot.png)
+
 ## What is emulated
 
 - SC62015 CPU, including cycle timing taken from the ESR-L manual and checked against a real calculator
