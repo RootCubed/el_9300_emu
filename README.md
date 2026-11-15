@@ -24,7 +24,7 @@ MSVC; the code only uses SDL3 and standard C++ (plus a Windows-only DPI setting)
 platforms have not been tried yet.
 
 ```sh
-git clone --recursive <repository URL>
+git clone --recursive https://github.com/RootCubed/el_9300_emu
 cmake -S . -B build
 cmake --build build
 ```
